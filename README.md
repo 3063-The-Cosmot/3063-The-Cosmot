@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My Profile!
 
-<!--
-**3063-The-Cosmot/3063-The-Cosmot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 Pacman Animation 🎮
+```plaintext
+    o
+   /|\
+    |
+   / \
+```
 
-Here are some ideas to get you started:
+## About Me
+Hello! I'm [Your Name], a passionate software developer with a love for gaming and technology. In my free time, I enjoy creating fun projects and exploring new programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Python, JavaScript, Java
+- Web Technologies: HTML, CSS, React
+- Game Development: Unity, Godot
+
+## Contact
+Feel free to reach out for collaborations or just to chat!
+
+- Email: youremail@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com)
