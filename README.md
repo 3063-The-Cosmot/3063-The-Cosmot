@@ -1,6 +1,5 @@
-# Welcome to My Profile!
+# Welcome Coders !
 
-## 🎮 Pacman Animation 🎮
 ```plaintext
     o
    /|\
@@ -9,15 +8,15 @@
 ```
 
 ## About Me
-Hello! I'm [Your Name], a passionate software developer with a love for gaming and technology. In my free time, I enjoy creating fun projects and exploring new programming languages.
+Hello! I'm Barathi, a passionate software developer with a love for technology. In my free time, I enjoy creating fun projects and exploring new programming languages.
 
 ## Skills
-- Programming Languages: Python, JavaScript, Java
+- Programming Languages: Python, JavaScript, Java, C++
 - Web Technologies: HTML, CSS, React
-- Game Development: Unity, Godot
+- DataBases - Firebase,mysql,SQLplus,MongoDB
 
 ## Contact
 Feel free to reach out for collaborations or just to chat!
 
-- Email: youremail@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com)
+- Email: barathishankarr@gmail.com
+- LinkedIn: [LinkedIn](https://barathishankar006)
